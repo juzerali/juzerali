@@ -1,4 +1,11 @@
-### Hi there 👋
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juzerali&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--
+Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50px" width="50px"/>
+-->
 
 <!--
 **juzerali/juzerali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
